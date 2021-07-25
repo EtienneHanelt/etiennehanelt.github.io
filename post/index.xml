@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts | Etienne Hanelt</title>
+    <link>https://etiennehanelt.github.io/post/</link>
+      <atom:link href="https://etiennehanelt.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <description>Posts</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><copyright>© Etienne Hanelt 2021; photo credit: John Cairns 2019</copyright><lastBuildDate>Sun, 25 Jul 2021 11:52:00 +0000</lastBuildDate>
+    <image>
+      <url>https://etiennehanelt.github.io/media/icon_hu4b03844681653ffbe0fad95f1db0d6a3_7870_512x512_fill_lanczos_center_3.png</url>
+      <title>Posts</title>
+      <link>https://etiennehanelt.github.io/post/</link>
+    </image>
+    
+    <item>
+      <title>Democratic backsliding – a global view</title>
+      <link>https://etiennehanelt.github.io/post/2021-07-25_regimetypes/</link>
+      <pubDate>Sun, 25 Jul 2021 11:52:00 +0000</pubDate>
+      <guid>https://etiennehanelt.github.io/post/2021-07-25_regimetypes/</guid>
+      <description>&lt;p&gt;In the last couple of years, researchers have increasingly been occupied with democratic &amp;lsquo;backsliding&amp;rsquo;: a reduction of the quality of democracy. Looking at the regimes in the world variable in the V-Dem dataset, we can elucidate global trends.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /post/2021-07-25_regimetypes/regimetypes_hua38e51fba01332f7f5a7985e9f139446_24714_844c838fcbbc0b60c0480c5adad4bff3.png 400w,
+               /post/2021-07-25_regimetypes/regimetypes_hua38e51fba01332f7f5a7985e9f139446_24714_87133b0e0a3d8023188249921260c251.png 760w,
+               /post/2021-07-25_regimetypes/regimetypes_hua38e51fba01332f7f5a7985e9f139446_24714_1200x1200_fit_lanczos_3.png 1200w&#34;
+               src=&#34;https://etiennehanelt.github.io/post/2021-07-25_regimetypes/regimetypes_hua38e51fba01332f7f5a7985e9f139446_24714_844c838fcbbc0b60c0480c5adad4bff3.png&#34;
+               width=&#34;649&#34;
+               height=&#34;549&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;As recently as 1945, three-quarters of countries were closed autocracies. Since then, the number of democracies &amp;ndash; both liberal and electoral ones &amp;ndash; has increased. At the same time, more and more autocracies opened up and became electoral autocracies. The 1990s saw a particularly strong expansion of (electoral) democracies at the expense of autocracies, the so-called &amp;lsquo;third wave&amp;rsquo; of democratization (Huntington 1993).&lt;/p&gt;
+&lt;p&gt;Around 2010, the trend has turned. Since then, liberal democracies have turned into electoral democracies.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
