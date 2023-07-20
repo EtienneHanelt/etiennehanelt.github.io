@@ -12,18 +12,29 @@ I hold degrees in Political Science from Friedrich Schiller University Jena (M.A
 
 ---
 
-## Positions
-
-- Researcher, Judicial Studies Institute, Masaryk University
-- DPhil candidate, Centre for Socio-Legal Studies, University of Oxford
-
-
 ## Research interests
 
 - democratic backsliding, autocratization
 - European Union politics and policymaking
 - judicial politics, law and courts
 
+
+---
+
+## Publications
+
+2023\. '[Review of: From Development to Democracy: The Transformations of Modern Asia (Dan Slater and Joseph Wong)](https://doi.org/10.1080/13510347.2023.2168262)'. _Democratization_ 30(3), 543–545.
+
+2021\. '[Commissioned Book Review: Benjamin Bricker, Visions of Judicial Review: A Comparative Examination of Courts and Policy in Democracies](https://10.1177/1478929920971971)'. _Political Studies Review_ 19(3), NP21–NP22. [open access]
+
+2020\. '[Commissioned Book Review: Wojciech Sadurski, Poland’s Constitutional Breakdown (Oxford Comparative Constitutionalism)](https://doi.org/10.1177/1478929920931440)'. _Political Studies Review_ 18(4), NP11–NP12.
+
+2020\. '[In the Orbit of Democracy: Satellite Parties in South Korea’s 2020 Parliamentary Election](https://blog.politics.ox.ac.uk/in-the-orbit-of-democracy-satellite-parties-in-south-koreas-2020-parliamentary-election/)'. _Oxford University Politics Blog_.
+
+2018\. [with Jamie McLoughlin] 'United States of America'. [_Religious Exemptions for the Solemnisation of Same Sex Unions_](https://www.law.ox.ac.uk/sites/files/oxlaw/5._religious_exemptions_for_the_soleminsation_of_same_sex_unions_.pdf), ed. by Rishika Sahgal, Gauri Pillai, and Katy Sheridan. Oxford Pro Bono Publico: 45–52.
+
+
+---
 
 ## Presentations
 
