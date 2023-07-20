@@ -8,15 +8,16 @@ email: etienne.hanelt (at) wolfson.ox.ac.uk
 # The following information is used to improve the website traffic from search engines, e.g., Google.
 keywords: Etienne Hanelt
 description: Personal website of Etienne Hanelt
-# canonical: https://etiennehanelt.github.io/
+canonical: https://etiennehanelt.github.io/
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
+twitter: https://twitter.com/EtienneHanelt
+linkedin: https://www.linkedin.com/in/etiennehanelt
 google_scholar: https://scholar.google.com/citations?user=_SiL_cYAAAAJ
 #cv_link: assets/files/curriculum_vitae.pdf
 #github_link: https://github.com/
-linkedin: https://www.linkedin.com/in/etiennehanelt
-twitter: https://twitter.com/EtienneHanelt
+
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
