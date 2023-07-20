@@ -10,6 +10,7 @@ At the University of Oxford, I was one of the founders and convenors of a gradua
 
 I hold degrees in Political Science from Friedrich Schiller University Jena (M.A., B.A.) and have studied as a graduate exchange student in Michigan and South Korea. My master's thesis was awarded the Jena Political Science Department's best thesis award in 2016. Before joining Oxford, I taught classes in political science at Jena. 
 
+---
 
 ## Positions
 
