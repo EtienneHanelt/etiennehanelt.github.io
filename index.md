@@ -25,7 +25,7 @@ I hold degrees in Political Science from Friedrich Schiller University Jena (M.A
 
 2023\. '[Review of: From Development to Democracy: The Transformations of Modern Asia (Dan Slater and Joseph Wong)](https://doi.org/10.1080/13510347.2023.2168262)'. _Democratization_ 30(3), 543–545.
 
-2021\. '[Commissioned Book Review: Benjamin Bricker, Visions of Judicial Review: A Comparative Examination of Courts and Policy in Democracies](https://10.1177/1478929920971971)'. _Political Studies Review_ 19(3), NP21–NP22. [open access]
+2021\. '[Commissioned Book Review: Benjamin Bricker, Visions of Judicial Review: A Comparative Examination of Courts and Policy in Democracies](https://doi.org/10.1177/1478929920971971)'. _Political Studies Review_ 19(3), NP21–NP22. [open access]
 
 2020\. '[Commissioned Book Review: Wojciech Sadurski, Poland’s Constitutional Breakdown (Oxford Comparative Constitutionalism)](https://doi.org/10.1177/1478929920931440)'. _Political Studies Review_ 18(4), NP11–NP12.
 
