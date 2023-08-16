@@ -2,7 +2,7 @@
 title: Etienne Hanelt
 position: Political scientist
 affiliation: Researcher, Masaryk University<br>DPhil candidate, University of Oxford
-email: etienne.hanelt (at) wolfson.ox.ac.uk
+#email: etienne.hanelt (at) wolfson.ox.ac.uk
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
@@ -12,6 +12,7 @@ canonical: https://etiennehanelt.github.io/
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
+email: mailto://etienne.hanelt@wolfson.ox.ac.uk
 twitter: https://twitter.com/EtienneHanelt
 linkedin: https://www.linkedin.com/in/etiennehanelt
 google_scholar: https://scholar.google.com/citations?user=_SiL_cYAAAAJ
