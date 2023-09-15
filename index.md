@@ -38,6 +38,12 @@ I hold degrees in Political Science from Friedrich Schiller University Jena (M.A
 
 ## Presentations
 
+2023\. 'A Hybrid Judiciary in a Hybrid Regime: A Case Study on Hungary'. _Workshop 'Rule of Law and _Rechtsstaat_ under Pressure' Special Issue ZfVP_ (University of Warsaw, 09/2023).
+
+2023\. 'A Hybrid Judiciary in a Hybrid Regime: A Case Study on Hungary'. _ECPR General Conference_ (Charles University, Prague, 09/2023).
+
+2023\. 'Getting Article 7 Done: Coalition-building against Hungary in the European Parliament'. _ECPR General Conference_ (Charles University, Prague, 09/2023).
+
 2023\. 'A Hybrid Judiciary in a Hybrid Regime: A Case Study on Hungary'. _Nuffield Early Career Workshop in Socio-Legal Studies_ (Nuffield College, Oxford, 06/2023).
 
 2023\. 'Backsliding, European Union, and War'. Roundtable: _Unpacking Constitutional Democracy: Concepts and Misinterpretations_ at the Law in Societies Cluster (Wolfson College, Oxford, 06/2023).
