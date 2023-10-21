@@ -86,8 +86,14 @@
           <i class="fab fa-linkedin"></i>
         </a>
         {% endif %}
-
-        {% if site.twitter %}
+        
+        {% if site.bsky %}
+        <a style="margin: 0 0 0 0" href="{{ site.bsky }}">
+          <i class="fab fa-square"></i>
+        </a>
+        {% endif %}
+        
+          {% if site.twitter %}
         <a style="margin: 0 0 0 0" href="{{ site.twitter }}">
           <i class="fab fa-twitter"></i>
         </a>
