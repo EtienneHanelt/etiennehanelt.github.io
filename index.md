@@ -47,7 +47,7 @@ I hold degrees in Political Science from Friedrich Schiller University Jena (M.A
 
 2023\. 'A Hybrid Judiciary in a Hybrid Regime: A Case Study on Hungary'. _ECPR General Conference_ (Charles University, Prague, 09/2023).
 
-2023\. 'Getting Article 7 Done: Coalition-building against Hungary in the European Parliament'. _ECPR General Conference_ (Charles University, Prague, 09/2023).
+<!-- 2023\. 'Getting Article 7 Done: Coalition-building against Hungary in the European Parliament'. _ECPR General Conference_ (Charles University, Prague, 09/2023). -->
 
 2023\. 'A Hybrid Judiciary in a Hybrid Regime: A Case Study on Hungary'. _Nuffield Early Career Workshop in Socio-Legal Studies_ (Nuffield College, Oxford, 06/2023).
 
