@@ -37,13 +37,13 @@ I hold degrees in Political Science from Friedrich Schiller University Jena (M.A
 
 2020\. E Hanelt. '[In the Orbit of Democracy: Satellite Parties in South Korea’s 2020 Parliamentary Election](https://blog.politics.ox.ac.uk/in-the-orbit-of-democracy-satellite-parties-in-south-koreas-2020-parliamentary-election/)'. _Oxford University Politics Blog_.
 
-2018\. E Hanelt, J McLoughlin. 'United States of America'. [_Religious Exemptions for the Solemnisation of Same Sex Unions_](https://www.law.ox.ac.uk/sites/files/oxlaw/5._religious_exemptions_for_the_soleminsation_of_same_sex_unions_.pdf), ed. by Rishika Sahgal, Gauri Pillai, and Katy Sheridan. Oxford Pro Bono Publico: 45–52.
+2018\. E Hanelt, J McLoughlin. 'United States of America'. [_Religious Exemptions for the Solemnisation of Same Sex Unions_](https://www.law.ox.ac.uk/sites/files/oxlaw/5._religious_exemptions_for_the_soleminsation_of_same_sex_unions_.pdf), ed. by R Sahgal, G Pillai, and K Sheridan. Oxford Pro Bono Publico: 45–52.
 
 
 ---
 
 ## Presentations
-2024\. 'How much of an autocrat do you need to be for the EU to notice? Enforcing compliance through informality'. _ECPR General Conference_ (UCD, Dublin, 08/2024).  
+2024\. 'How much of an autocrat do you need to be for the EU to notice? Enforcing compliance through informality'. _ECPR General Conference_ (University College Dublin, 08/2024).  
 
 2024\. 'How much of an autocrat do you need to be for the EU to notice? Enforcing compliance through informality'. _IVR World Congress 2024: The Rule of Law, Justice, and the Future of Democracy_ (Soongsil University Seoul 07/2024).
 
@@ -53,7 +53,7 @@ I hold degrees in Political Science from Friedrich Schiller University Jena (M.A
 
 2023\. 'A Hybrid Judiciary in a Hybrid Regime: A Case Study on Hungary'. _ECPR General Conference_ (Charles University, Prague, 09/2023).
 
-2023\. 'Title withheld'. _ECPR General Conference_ (Charles University, Prague, 09/2023).
+2023\. [Title withheld]. _ECPR General Conference_ (Charles University, Prague, 09/2023).
 
 2023\. 'A Hybrid Judiciary in a Hybrid Regime: A Case Study on Hungary'. _Nuffield Early Career Workshop in Socio-Legal Studies_ (Nuffield College, Oxford, 06/2023).
 
