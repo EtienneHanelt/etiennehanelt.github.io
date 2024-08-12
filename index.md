@@ -22,32 +22,38 @@ I hold degrees in Political Science from Friedrich Schiller University Jena (M.A
 ---
 
 ## Working papers
-2023 (with Attila Vincze). '[A Hybrid Judiciary in a Hybrid Regime: A Case Study on Hungary](https://justin.law.muni.cz/media/3565890/hanelt-vincze_a-hybrid-judiciary-in-a-hybrid-regime-2023.pdf)'. _JUSTIN Working Papers_ 2023/07. 
+2023 E Hanelt, A Vincze. '[A Hybrid Judiciary in a Hybrid Regime: A Case Study on Hungary](https://justin.law.muni.cz/media/3565890/hanelt-vincze_a-hybrid-judiciary-in-a-hybrid-regime-2023.pdf)'. _JUSTIN Working Papers_ 2023/07. 
 
 ---
 
 ## Publications
+2024\. HK Beck, E Hanelt, V Wintermantel. '[Was wäre, wenn…? Zur Verwundbarkeit der Demokratie in Thüringen](https://www.bpb.de/shop/zeitschriften/apuz/fokus-ostdeutschland-2024/551117/was-waere-wenn/)'. _Aus Politik und Zeitgeschichte_ 2024(33–35), 29–34.
 
-2023\. '[Review of: From Development to Democracy: The Transformations of Modern Asia (Dan Slater and Joseph Wong)](https://doi.org/10.1080/13510347.2023.2168262)'. _Democratization_ 30(3), 543–545.
+2023\. E Hanelt. '[Review of: From Development to Democracy: The Transformations of Modern Asia (Dan Slater and Joseph Wong)](https://doi.org/10.1080/13510347.2023.2168262)'. _Democratization_ 30(3), 543–545.
 
-2021\. '[Commissioned Book Review: Benjamin Bricker, Visions of Judicial Review: A Comparative Examination of Courts and Policy in Democracies](https://doi.org/10.1177/1478929920971971)'. _Political Studies Review_ 19(3), NP21–NP22. [open access]
+2021\. E Hanelt. '[Commissioned Book Review: Benjamin Bricker, Visions of Judicial Review: A Comparative Examination of Courts and Policy in Democracies](https://doi.org/10.1177/1478929920971971)'. _Political Studies Review_ 19(3), NP21–NP22. [open access]
 
-2020\. '[Commissioned Book Review: Wojciech Sadurski, Poland’s Constitutional Breakdown (Oxford Comparative Constitutionalism)](https://doi.org/10.1177/1478929920931440)'. _Political Studies Review_ 18(4), NP11–NP12.
+2020\. E Hanelt. '[Commissioned Book Review: Wojciech Sadurski, Poland’s Constitutional Breakdown (Oxford Comparative Constitutionalism)](https://doi.org/10.1177/1478929920931440)'. _Political Studies Review_ 18(4), NP11–NP12.
 
-2020\. '[In the Orbit of Democracy: Satellite Parties in South Korea’s 2020 Parliamentary Election](https://blog.politics.ox.ac.uk/in-the-orbit-of-democracy-satellite-parties-in-south-koreas-2020-parliamentary-election/)'. _Oxford University Politics Blog_.
+2020\. E Hanelt. '[In the Orbit of Democracy: Satellite Parties in South Korea’s 2020 Parliamentary Election](https://blog.politics.ox.ac.uk/in-the-orbit-of-democracy-satellite-parties-in-south-koreas-2020-parliamentary-election/)'. _Oxford University Politics Blog_.
 
-2018\. [with Jamie McLoughlin] 'United States of America'. [_Religious Exemptions for the Solemnisation of Same Sex Unions_](https://www.law.ox.ac.uk/sites/files/oxlaw/5._religious_exemptions_for_the_soleminsation_of_same_sex_unions_.pdf), ed. by Rishika Sahgal, Gauri Pillai, and Katy Sheridan. Oxford Pro Bono Publico: 45–52.
+2018\. E Hanelt, J McLoughlin. 'United States of America'. [_Religious Exemptions for the Solemnisation of Same Sex Unions_](https://www.law.ox.ac.uk/sites/files/oxlaw/5._religious_exemptions_for_the_soleminsation_of_same_sex_unions_.pdf), ed. by Rishika Sahgal, Gauri Pillai, and Katy Sheridan. Oxford Pro Bono Publico: 45–52.
 
 
 ---
 
 ## Presentations
+2024\. 'How much of an autocrat do you need to be for the EU to notice? Enforcing compliance through informality'. _ECPR General Conference_ (UCD, Dublin, 08/2024).  
+
+2024\. 'How much of an autocrat do you need to be for the EU to notice? Enforcing compliance through informality'. _IVR World Congress 2024: The Rule of Law, Justice, and the Future of Democracy_ (Soongsil University Seoul 07/2024).
+
+2024\. [Title withheld]. _ECPR SGEU_ (NOVA University Lisbon, 06/2024). 
 
 2023\. 'A Hybrid Judiciary in a Hybrid Regime: A Case Study on Hungary'. _Workshop 'Rule of Law and Rechtsstaat under Pressure' Special Issue ZfVP_ (University of Warsaw, 09/2023).
 
 2023\. 'A Hybrid Judiciary in a Hybrid Regime: A Case Study on Hungary'. _ECPR General Conference_ (Charles University, Prague, 09/2023).
 
-<!-- 2023\. 'Getting Article 7 Done: Coalition-building against Hungary in the European Parliament'. _ECPR General Conference_ (Charles University, Prague, 09/2023). -->
+2023\. 'Title withheld'. _ECPR General Conference_ (Charles University, Prague, 09/2023).
 
 2023\. 'A Hybrid Judiciary in a Hybrid Regime: A Case Study on Hungary'. _Nuffield Early Career Workshop in Socio-Legal Studies_ (Nuffield College, Oxford, 06/2023).
 
