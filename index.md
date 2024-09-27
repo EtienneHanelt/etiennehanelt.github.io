@@ -27,6 +27,8 @@ I hold degrees in Political Science from Friedrich Schiller University Jena (M.A
 ---
 
 ## Publications
+2024\. E Hanelt. 'Herausforderungen für die Demokratie: Die autoritär-populistische Welle in Thüringen'. _Dialog: Deutsch-Polnisches Magazin_ 147, 68–72. [also in Polish]
+
 2024\. HK Beck, E Hanelt, V Wintermantel. '[Was wäre, wenn…? Zur Verwundbarkeit der Demokratie in Thüringen](https://www.bpb.de/shop/zeitschriften/apuz/fokus-ostdeutschland-2024/551117/was-waere-wenn/)'. _Aus Politik und Zeitgeschichte_ 2024(33–35), 29–34.
 
 2023\. E Hanelt. '[Review of: From Development to Democracy: The Transformations of Modern Asia (Dan Slater and Joseph Wong)](https://doi.org/10.1080/13510347.2023.2168262)'. _Democratization_ 30(3), 543–545.
@@ -43,7 +45,7 @@ I hold degrees in Political Science from Friedrich Schiller University Jena (M.A
 ---
 
 ## Presentations
-2024\. 'The Supranational Tug of War: EU Entscheidungsprozesse in der Rechtsstaatskrise'. _DVPW Kongress_ (Georg-August-University Göttingen, 09/2024). 
+2024\. 'The Supranational Tug of War: EU Entscheidungsprozesse in der Rechtsstaatskrise'. _DVPW Kongress 2024: Politik in der Polykrise_ (Georg-August-University Göttingen, 09/2024). 
 
 2024\. 'How much of an autocrat do you need to be for the EU to notice? Enforcing compliance through informality'. _ECPR General Conference_ (University College Dublin, 08/2024).  
 
