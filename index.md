@@ -43,6 +43,8 @@ I hold degrees in Political Science from Friedrich Schiller University Jena (M.A
 ---
 
 ## Presentations
+2024\. 'The Supranational Tug of War: EU Entscheidungsprozesse in der Rechtsstaatskrise'. _DVPW Kongress_ (Georg-August-University Göttingen, 09/2024). 
+
 2024\. 'How much of an autocrat do you need to be for the EU to notice? Enforcing compliance through informality'. _ECPR General Conference_ (University College Dublin, 08/2024).  
 
 2024\. 'How much of an autocrat do you need to be for the EU to notice? Enforcing compliance through informality'. _IVR World Congress 2024: The Rule of Law, Justice, and the Future of Democracy_ (Soongsil University Seoul 07/2024).
