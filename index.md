@@ -29,6 +29,8 @@ I hold degrees in Political Science from Friedrich Schiller University Jena (M.A
 ---
 
 ## Publications
+Forthcoming. E. Hanelt. 'Getting Article 7 Done: Coalition-Building against Hungary in the European Parliament'. _Journal of European Integration_.*
+
 2024\. E Hanelt. 'Herausforderungen für die Demokratie: Die autoritär-populistische Welle in Thüringen'. _Dialog: Deutsch-Polnisches Magazin_ 147, 68–72. [also in Polish]
 
 2024\. HK Beck, E Hanelt, V Wintermantel. '[Was wäre, wenn…? Zur Verwundbarkeit der Demokratie in Thüringen](https://www.bpb.de/shop/zeitschriften/apuz/fokus-ostdeutschland-2024/551117/was-waere-wenn/)'. _Aus Politik und Zeitgeschichte_ 2024(33–35), 29–34.
@@ -53,13 +55,13 @@ I hold degrees in Political Science from Friedrich Schiller University Jena (M.A
 
 2024\. 'How much of an autocrat do you need to be for the EU to notice? Enforcing compliance through informality'. _IVR World Congress 2024: The Rule of Law, Justice, and the Future of Democracy_ (Soongsil University Seoul 07/2024).
 
-2024\. [Title withheld]. _ECPR SGEU_ (NOVA University Lisbon, 06/2024). 
+2024\. 'Getting Article 7 Done: Coalition-Building against Hungary in the European Parliament'. _ECPR SGEU_ (NOVA University Lisbon, 06/2024). 
 
 2023\. 'A Hybrid Judiciary in a Hybrid Regime: A Case Study on Hungary'. _Workshop 'Rule of Law and Rechtsstaat under Pressure' Special Issue ZfVP_ (University of Warsaw, 09/2023).
 
 2023\. 'A Hybrid Judiciary in a Hybrid Regime: A Case Study on Hungary'. _ECPR General Conference_ (Charles University, Prague, 09/2023).
 
-2023\. [Title withheld]. _ECPR General Conference_ (Charles University, Prague, 09/2023).
+2023\. 'Getting Article 7 Done: Coalition-Building against Hungary in the European Parliament'. _ECPR General Conference_ (Charles University, Prague, 09/2023).
 
 2023\. 'A Hybrid Judiciary in a Hybrid Regime: A Case Study on Hungary'. _Nuffield Early Career Workshop in Socio-Legal Studies_ (Nuffield College, Oxford, 06/2023).
 
