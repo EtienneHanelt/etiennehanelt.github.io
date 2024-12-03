@@ -29,7 +29,7 @@ I hold degrees in Political Science from Friedrich Schiller University Jena (M.A
 ---
 
 ## Publications
-Forthcoming. E Hanelt. 'Getting Article 7 Done: Coalition-Building against Hungary in the European Parliament'. _Journal of European Integration_.*
+Forthcoming. E Hanelt. 'Getting Article 7 Done: Coalition-Building against Hungary in the European Parliament'. _Journal of European Integration_.
 
 2024\. E Hanelt. 'Herausforderungen für die Demokratie: Die autoritär-populistische Welle in Thüringen'. _Dialog: Deutsch-Polnisches Magazin_ 147, 68–72. [also in Polish]
 
