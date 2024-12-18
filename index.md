@@ -51,6 +51,8 @@ Forthcoming. E Hanelt. 'Getting Article 7 Done: Coalition-Building against Hunga
 ---
 
 ## Presentations
+2024\. 'Resilienz gegen die Machtübernahmebestrebungen autoritär-populistischer Parteien'. _Guest lecture as part of a series on comparative party systems_ (TU Chemnitz, 12/2024).
+
 2024\. 'The Supranational Tug of War: EU Entscheidungsprozesse in der Rechtsstaatskrise'. _DVPW Kongress 2024: Politik in der Polykrise_ (Georg-August-University Göttingen, 09/2024). 
 
 2024\. 'How much of an autocrat do you need to be for the EU to notice? Enforcing compliance through informality'. _ECPR General Conference_ (University College Dublin, 08/2024).  
