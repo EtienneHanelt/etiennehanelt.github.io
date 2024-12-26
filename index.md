@@ -29,19 +29,28 @@ I hold degrees in Political Science from Friedrich Schiller University Jena (M.A
 ---
 
 ## Publications
+
+### Journal Articles
+
 Forthcoming. E Hanelt, A Vincze. 'Managing Courts in Competitive Authoritarian Regimes: Co-Optation, Repression and Resistance in Hungary'. _Zeitschrift für Vergleichende Politikwissenschaft/German Journal of Comparative Politics_.
 
 2024\. E Hanelt. '[Getting Article 7 Done: Coalition-Building against Hungary in the European Parliament](https://doi.org/10.1080/07036337.2024.2441977)'. _Journal of European Integration_. [open access, online first].
 
-2024\. E Hanelt. 'Herausforderungen für die Demokratie: Die autoritär-populistische Welle in Thüringen'. _Dialog: Deutsch-Polnisches Magazin_ 147, 68–72. [also in Polish]
-
 2024\. HK Beck, E Hanelt, V Wintermantel. '[Was wäre, wenn…? Zur Verwundbarkeit der Demokratie in Thüringen](https://www.bpb.de/shop/zeitschriften/apuz/fokus-ostdeutschland-2024/551117/was-waere-wenn/)'. _Aus Politik und Zeitgeschichte_ 2024(33–35), 29–34.
+
+
+### Book Reviews
 
 2023\. E Hanelt. '[Review of: From Development to Democracy: The Transformations of Modern Asia (Dan Slater and Joseph Wong)](https://doi.org/10.1080/13510347.2023.2168262)'. _Democratization_ 30(3), 543–545.
 
 2021\. E Hanelt. '[Commissioned Book Review: Benjamin Bricker, Visions of Judicial Review: A Comparative Examination of Courts and Policy in Democracies](https://doi.org/10.1177/1478929920971971)'. _Political Studies Review_ 19(3), NP21–NP22. [open access]
 
 2020\. E Hanelt. '[Commissioned Book Review: Wojciech Sadurski, Poland’s Constitutional Breakdown (Oxford Comparative Constitutionalism)](https://doi.org/10.1177/1478929920931440)'. _Political Studies Review_ 18(4), NP11–NP12.
+
+
+### Miscellaneous
+
+2024\. E Hanelt. 'Herausforderungen für die Demokratie: Die autoritär-populistische Welle in Thüringen'. _Dialog: Deutsch-Polnisches Magazin_ 147, 68–72. [also in Polish]
 
 2020\. E Hanelt. '[In the Orbit of Democracy: Satellite Parties in South Korea’s 2020 Parliamentary Election](https://blog.politics.ox.ac.uk/in-the-orbit-of-democracy-satellite-parties-in-south-koreas-2020-parliamentary-election/)'. _Oxford University Politics Blog_.
 
