@@ -32,7 +32,7 @@ I hold degrees in Political Science from Friedrich Schiller University Jena (M.A
 
 ### Journal Articles (** peer-reviewed)
 
-Forthcoming. E Hanelt, A Vincze. 'Managing Courts in Competitive Authoritarian Regimes: Co-Optation, Repression and Resistance in Hungary'. _Zeitschrift für Vergleichende Politikwissenschaft/German Journal of Comparative Politics_.**
+2025\. E Hanelt, A Vincze. '[Managing Courts in Competitive Authoritarian Regimes: Co-Optation, Repression and Resistance in Hungary](https://doi.org/10.1007/s12286-024-00621-y)'. _Zeitschrift für Vergleichende Politikwissenschaft/German Journal of Comparative Politics_. [open access, online first].**
 
 2024\. E Hanelt. '[Getting Article 7 Done: Coalition-Building against Hungary in the European Parliament](https://doi.org/10.1080/07036337.2024.2441977)'. _Journal of European Integration_. [open access, online first].**
 
