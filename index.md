@@ -23,10 +23,12 @@ I hold degrees in Political Science from Friedrich Schiller University Jena (M.A
 
 ---
 
+<!-- 
 ## Working papers
-2023 E Hanelt, A Vincze. '[A Hybrid Judiciary in a Hybrid Regime: A Case Study on Hungary](https://justin.law.muni.cz/media/3565890/hanelt-vincze_a-hybrid-judiciary-in-a-hybrid-regime-2023.pdf)'. _JUSTIN Working Papers_ 2023/07. 
+2023 E Hanelt, A Vincze. '[A Hybrid Judiciary in a Hybrid Regime: A Case Study on Hungary](https://justin.law.muni.cz/media/3565890/hanelt-vincze_a-hybrid-judiciary-in-a-hybrid-regime-2023.pdf)'. _JUSTIN Working Papers_ 2023/07.
 
 ---
+-->
 
 ## Publications
 
