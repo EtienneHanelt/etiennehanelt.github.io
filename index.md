@@ -6,7 +6,7 @@ layout: homepage
 
 I study how authoritarian governments demolish democracy and the rule of law and what can be done to stop them. I'm a political scientist interested in democratic backsliding, especially in Central Eastern Europe, European Union politics, and judicial politics. In particular, I study elite decision-making in various contexts, creating academic work with policy relevance. 
 
-I'm a researcher at the Judicial Studies Institute (JUSTIN) at Masaryk University, where I work on the ERC Consolidator Grant project [INFINITY](https://justin.law.muni.cz/en/projects/infinity-2021-2026) – 'Informal Judicial Institutions: Invisible Determinants of Democratic Decay'. In April 2024, I joined [Verfassungsblog's Thuringia project](https://verfassungsblog.de/thuringen-projekt/). There, I study scenarios of subnational power grabs of authoritarian populist parties. I'm also a DPhil candidate at the [University of Oxford](https://www.law.ox.ac.uk/people/etienne-hanelt) and Wolfson College and write my thesis on the 'Supranational Tug of War' between backsliding member state governments and the European Union. I am a [re:constitution fellow 2024/25](https://www.reconstitution.eu/en/fellows/detail/20242025/etienne-hanelt), pursuing my project 'Castles of Illiberal Thought and Mercenary Thinkers: Academic Legitimation of Authoritarian Politics in Hungary'.
+In April 2024, I joined Verfassungsblog and worked first on the [Thuringia project](https://verfassungsblog.de/thuringen-projekt/) and now on the Judiciary project, studying scenarios of power grabs of authoritarian populist parties. I'm also a DPhil candidate at the [University of Oxford](https://www.law.ox.ac.uk/people/etienne-hanelt) and Wolfson College and write my thesis on the 'Supranational Tug of War' between backsliding member state governments and the European Union. I am a [re:constitution fellow 2024/25](https://www.reconstitution.eu/en/fellows/detail/20242025/etienne-hanelt), pursuing my project 'Castles of Illiberal Thought and Mercenary Thinkers: Academic Legitimation of Authoritarian Politics in Hungary'. From September 2021 to January 2025, I worked as a researcher at the Judicial Studies Institute (JUSTIN) at Masaryk University. I worked there on the ERC Consolidator Grant project [INFINITY](https://justin.law.muni.cz/en/projects/infinity-2021-2026) – 'Informal Judicial Institutions: Invisible Determinants of Democratic Decay'.
 
 At the University of Oxford, I was one of the founders and convenors of a graduate discussion group  (_OxonCourts_) that served as an interdisciplinary forum for researchers working on judicial institutions across the University. I represented for 3 years non-tenured researchers and graduate students at Wolfson College. This involved me in virtually all aspects of College governance and strategy. In 2019, I was elected as the Chair of the General Meeting – the Common Room President – and participated in this capacity in many committees dealing with issues as diverse as academic affairs, communications, the College premises, equality and welfare as well as social and cultural matters. I was also twice elected to the Governing Body (2019–21) and served for two years on the General Purposes Committee (2018–20).
 
@@ -34,11 +34,12 @@ I hold degrees in Political Science from Friedrich Schiller University Jena (M.A
 
 ### Journal Articles (** peer-reviewed)
 
-2025\. E Hanelt, A Vincze. '[Managing Courts in Competitive Authoritarian Regimes: Co-Optation, Repression and Resistance in Hungary](https://doi.org/10.1007/s12286-024-00621-y)'. _Zeitschrift für Vergleichende Politikwissenschaft/German Journal of Comparative Politics_. [open access, online first].**
 
-2024\. E Hanelt. '[Getting Article 7 Done: Coalition-Building against Hungary in the European Parliament](https://doi.org/10.1080/07036337.2024.2441977)'. _Journal of European Integration_. [open access, online first].**
+Forthcoming\. E Hanelt. '[Getting Article 7 Done: Coalition-Building against Hungary in the European Parliament](https://doi.org/10.1080/07036337.2024.2441977)'. _Journal of European Integration_. Open access, online first.**
 
-2024\. HK Beck, E Hanelt, V Wintermantel. '[Was wäre, wenn…? Zur Verwundbarkeit der Demokratie in Thüringen](https://www.bpb.de/shop/zeitschriften/apuz/fokus-ostdeutschland-2024/551117/was-waere-wenn/)'. _Aus Politik und Zeitgeschichte_ 2024(33–35), 29–34.
+2024\. E Hanelt, A Vincze. '[Managing Courts in Competitive Authoritarian Regimes: Co-Optation, Repression and Resistance in Hungary](https://doi.org/10.1007/s12286-024-00621-y)'. _Zeitschrift für Vergleichende Politikwissenschaft_ 18.3, 381–400. Open access.**
+
+2024\. HK Beck, E Hanelt, V Wintermantel. '[Was wäre, wenn…? Zur Verwundbarkeit der Demokratie in Thüringen](https://www.bpb.de/shop/zeitschriften/apuz/fokus-ostdeutschland-2024/551117/was-waere-wenn/)'. _Aus Politik und Zeitgeschichte_ 2024(33–35), 29–34. Open access.
 
 
 ### Book Reviews
