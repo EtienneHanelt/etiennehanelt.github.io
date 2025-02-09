@@ -1,14 +1,30 @@
 main:
 
+## Journal articles
+
+ - title: "Getting Article 7 done: coalition-building against Hungary in the European Parliament"
+   authors: Etienne Hanelt
+   conference_short: JEI
+   conference: Journal of European Integration
+   pdf: https://www.tandfonline.com/doi/epdf/10.1080/07036337.2024.2441977?download=true
+   notes: Open access, online first, peer-reviewed
+
  - title: "Managing Courts in Competitive Authoritarian Regimes: Co-Optation, Repression and Resistance in Hungary"
    authors: Etienne Hanelt, Attila Vincze
-#   conference_short: ZfVP
-   conference: Zeitschrift für Vergleichende Politikwissenschaft 18.3, 381–400.
+   conference_short: ZfVP
+   conference: Zeitschrift für Vergleichende Politikwissenschaft 18.3, 381–400
    pdf: https://link.springer.com/content/pdf/10.1007/s12286-024-00621-y.pdf
-#   code: https://github.com/MrGiovanni/ContinualLearning
-#   bibtex: https://bib.yliu.me/MICCAI23.txt
-#   image: ./assets/img/teaser_example_2.png
+   notes: Open access, peer-reviewed
+
+ - title: "Was wäre, wenn …? Zur Verwundbarkeit der Demokratie in Thüringen"
+   authors: Hannah Katinka Beck, Etienne Hanelt, Vanessa Wintermantel
+   conference_short: APuZ
+   conference: Aus Politik und Zeitgeschichte 2024 (33–35), 29–34
+   pdf: https://www.bpb.de/system/files/dokument_pdf/APuZ_2024-33-35_online_0.pdf
    notes: Open access
+
+## Book reviews
+
 
 
 #  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
