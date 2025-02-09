@@ -106,6 +106,5 @@ Forthcoming\. E Hanelt. '[Getting Article 7 Done: Coalition-Building against Hun
 <!-- 
 {% include_relative _includes/publications.md %}
 
-
 {% include_relative _includes/services.md %}
 -->
