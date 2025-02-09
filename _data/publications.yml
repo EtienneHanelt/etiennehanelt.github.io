@@ -2,7 +2,7 @@ main:
 
  - title: "Managing Courts in Competitive Authoritarian Regimes: Co-Optation, Repression and Resistance in Hungary"
    authors: Etienne Hanelt, Attila Vincze
-   conference_short: ZfVP
+#   conference_short: ZfVP
    conference: Zeitschrift für Vergleichende Politikwissenschaft 18.3, 381–400.
    pdf: https://link.springer.com/content/pdf/10.1007/s12286-024-00621-y.pdf
 #   code: https://github.com/MrGiovanni/ContinualLearning
