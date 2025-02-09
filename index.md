@@ -32,8 +32,6 @@ I hold degrees in Political Science from Friedrich Schiller University Jena (M.A
 
 ## Publications
 
-{% include_relative _includes/publications.md %}
-
 
 ### Journal Articles (** peer-reviewed)
 
@@ -106,5 +104,8 @@ Forthcoming\. E Hanelt. '[Getting Article 7 Done: Coalition-Building against Hun
 
 
 <!-- 
+{% include_relative _includes/publications.md %}
+
+
 {% include_relative _includes/services.md %}
 -->
