@@ -53,8 +53,11 @@ Forthcoming\. E Hanelt. '[Getting Article 7 Done: Coalition-Building against Hun
 
 
 ### Miscellaneous
+2025\. AM Brandau, E Bruhn, E Hanelt, L Laude, J Talg, J Weickert, F Zillessen. '[We Are Launching the Judicial Resilience Project. How Vulnerable Is the German Judiciary?](https://verfassungsblog.de/we-are-launching-the-judicial-resilience-project/)' _Verfassungsblog – On Matters Constitutional_.
 
 2024\. E Hanelt. 'Herausforderungen für die Demokratie: Die autoritär-populistische Welle in Thüringen'. _Dialog: Deutsch-Polnisches Magazin_ 147, 68–72. [also in Polish]
+
+2024\. HK Beck, E Hanelt, J Richter '[Many Right(-wing) Choices](https://verfassungsblog.de/many-right-wing-choices/)'. _Verfassungsblog – On Matters Constitutional_.
 
 2020\. E Hanelt. '[In the Orbit of Democracy: Satellite Parties in South Korea’s 2020 Parliamentary Election](https://blog.politics.ox.ac.uk/in-the-orbit-of-democracy-satellite-parties-in-south-koreas-2020-parliamentary-election/)'. _Oxford University Politics Blog_.
 
