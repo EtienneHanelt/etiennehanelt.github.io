@@ -33,6 +33,9 @@ I hold degrees in Political Science from Friedrich Schiller University Jena (M.A
 
 ## Publications
 
+### Thesis
+2025\. **E Hanelt**. _Supranational Tug of War: Overcoming the European Union's Authoritarian Equilibrium._ DPhil thesis. University of Oxford. [Supervisors: Professor Fernanda Pirie (CSLS, Oxford) and Professor Ezequiel González Ocantos (DPIR, Oxford); examiners: Dr Agnieszka Kubal (CSLS, Oxford) and Professor Natasha Wunsch (Fribourg)]
+
 
 ### Journal Articles (## peer-reviewed)
 
