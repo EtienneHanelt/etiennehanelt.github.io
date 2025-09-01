@@ -37,9 +37,9 @@ I hold degrees in Political Science from Friedrich Schiller University Jena (M.A
 ### Journal Articles (## peer-reviewed)
 
 
-Forthcoming\. **E Hanelt**. '[Getting Article 7 Done: Coalition-Building against Hungary in the European Parliament](https://doi.org/10.1080/07036337.2024.2441977)'. _Journal of European Integration_. Open access, online first.##
+Forthcoming\. **E Hanelt**. '[Getting Article 7 Done: Coalition-Building against Hungary in the European Parliament](https://doi.org/10.1080/07036337.2024.2441977)'. _Journal of European Integration_. Open access.##
 
-2024\. **E Hanelt**, A Vincze. '[Managing Courts in Competitive Authoritarian Regimes: Co-Optation, Repression and Resistance in Hungary](https://doi.org/10.1007/s12286-024-00621-y)'. _Zeitschrift für Vergleichende Politikwissenschaft_ 18(3), 381–400. Open access.##
+2024\. **E Hanelt**, A Vincze. '[Managing Courts in Competitive Authoritarian Regimes: Co-Optation, Repression and Resistance in Hungary](https://doi.org/10.1007/s12286-024-00621-y)'. _Zeitschrift für Vergleichende Politikwissenschaft_ 18(3), 381–400. (= Part of the Special Issue: [Rule of law and Rechtsstaat under pressure](https://link.springer.com/journal/12286/volumes-and-issues/19-2), ed. by Hans-Joachim Lauth, Marta Bucholc, and Nicolas Hayoz). Open access.##
 
 2024\. HK Beck, **E Hanelt**, V Wintermantel. '[Was wäre, wenn…? Zur Verwundbarkeit der Demokratie in Thüringen](https://www.bpb.de/shop/zeitschriften/apuz/fokus-ostdeutschland-2024/551117/was-waere-wenn/)'. _Aus Politik und Zeitgeschichte_ 2024(33–35), 29–34. Open access.
 
