@@ -1,13 +1,13 @@
 main:
 
-<h3>Journal articles</h3>
+#<h3>Journal articles</h3>
 
- - title: "Getting Article 7 done: coalition-building against Hungary in the European Parliament"
-   authors: Etienne Hanelt
-   conference_short: JEI
-   conference: Journal of European Integration
-   pdf: https://www.tandfonline.com/doi/epdf/10.1080/07036337.2024.2441977?download=true
-   notes: Open access, online first, peer-reviewed
+# - title: "Getting Article 7 done: coalition-building against Hungary in the European Parliament"
+#   authors: Etienne Hanelt
+#   conference_short: JEI
+#   conference: Journal of European Integration
+#   pdf: https://www.tandfonline.com/doi/epdf/10.1080/07036337.2024.2441977?download=true
+#   notes: Open access, online first, peer-reviewed
 
  # - title: "Managing Courts in Competitive Authoritarian Regimes: Co-Optation, Repression and Resistance in Hungary"
  #   authors: Etienne Hanelt, Attila Vincze
