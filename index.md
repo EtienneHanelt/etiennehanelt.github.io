@@ -118,8 +118,8 @@ des Verfassungsblogs'. _Anwaltsblatt_ 2025(3). Forthcoming.
 
 
 
-<!-- 
 {% include_relative _includes/publications.md %}
+<!-- 
 
 {% include_relative _includes/services.md %}
 -->
