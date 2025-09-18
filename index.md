@@ -76,6 +76,9 @@ des Verfassungsblogs'. _Anwaltsblatt_ 2025(3). Forthcoming.
 ## Presentations
 2025\. 'Scenario Analysis for Resilience-Building: Lessons from Verfassungsblog’s Judicial Resilience Project' (with Friedrich Zillessen). _re:constitution European Rule of Law Conference_ (WZB, Berlin, 09/2025). 
 
+2025\. 'Studying international courts in critical times'. Moderation of a panel discussion with Mikael Rask
+Madsen, Mikkel Jarle Christensen and Ezgi Özlü (University of Copenhagen, 06/2025). 
+
 2025\. 'Castles of Illiberal Thought and Mercenary Thinkers: Academic Legitimation of Authoritarian Politics in Hungary'. _Research Seminar of the Institute for Legal Studies_ (HUN-REN Centre for Social Sciences, Budapest, 05/2025) [Invited talk].
 
 2025\. 'Castles of Illiberal Thought and Mercenary Thinkers: Academic Legitimation of Authoritarian Politics in Hungary'. _re:constitution fellow's talk_ (Online, 05/2025).
