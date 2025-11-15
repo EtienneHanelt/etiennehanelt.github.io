@@ -46,6 +46,12 @@ Forthcoming\. **E Hanelt**. '[Getting Article 7 Done: Coalition-Building against
 
 2024\. HK Beck, **E Hanelt**, V Wintermantel. '[Was wäre, wenn…? Zur Verwundbarkeit der Demokratie in Thüringen](https://www.bpb.de/shop/zeitschriften/apuz/fokus-ostdeutschland-2024/551117/was-waere-wenn/)'. _Aus Politik und Zeitgeschichte_ 2024(33–35), 29–34. Open access.
 
+### Book Chapters
+Forthcoming\. **E Hanelt**, F Zillessen. ‘Die qualitative Szenarioanalyse im Justiz-Projekt’. In: _Das Justiz-Projekt: Verwundbar-
+keit und Resilienz der dritten Gewalt_ [The Judicial Resilience Project: Vulnerability and Resilience of the Third Power]. Ed. by F Zillessen, AM Brandau und L Laude. Berlin: Verfassungsbook.
+
+Forthcoming\. J Schramm, **E Hanelt**. ‘Beurteilung und Beförderung’. In: _Das Justiz-Projekt: Verwundbar-
+keit und Resilienz der dritten Gewalt_ [The Judicial Resilience Project: Vulnerability and Resilience of the Third Power]. Ed. by F Zillessen, AM Brandau und L Laude. Berlin: Verfassungsbook.
 
 ### Book Reviews
 
@@ -55,21 +61,24 @@ Forthcoming\. **E Hanelt**. '[Getting Article 7 Done: Coalition-Building against
 
 2020\. **E Hanelt**. '[Commissioned Book Review: Wojciech Sadurski, Poland’s Constitutional Breakdown (Oxford Comparative Constitutionalism)](https://doi.org/10.1177/1478929920931440)'. _Political Studies Review_ 18(4), NP11–NP12.
 
+### Blog posts
 
-### Miscellaneous
-2025\. L Laude, **E. Hanelt**. 'Wie verwundbar der deutsche Rechtsstaat schon jetzt ist – zum Justiz-Projekt
-des Verfassungsblogs'. _Anwaltsblatt_ 2025(3). Forthcoming.
+2025\. E Hanelt. ‘[Castles of Illiberal Thought: The Rise and Role of Government-Organised Non-Governmental Organisations in Academic Contexts](https://verfassungsblog.de/castles-of-illiberal-thought/)’. _Verfassungsblog – On Matters Constitutional_.
 
 2025\. AM Brandau, E Bruhn, **E Hanelt**, L Laude, J Talg, J Weickert, F Zillessen. '[We Are Launching the Judicial Resilience Project. How Vulnerable Is the German Judiciary?](https://verfassungsblog.de/we-are-launching-the-judicial-resilience-project/)' _Verfassungsblog – On Matters Constitutional_.
-
-2024\. **E Hanelt**. 'Herausforderungen für die Demokratie: Die autoritär-populistische Welle in Thüringen'. _Dialog: Deutsch-Polnisches Magazin_ 147, 68–72. [also in Polish]
 
 2024\. HK Beck, **E Hanelt**, J Richter '[Many Right(-wing) Choices](https://verfassungsblog.de/many-right-wing-choices/)'. _Verfassungsblog – On Matters Constitutional_.
 
 2020\. **E Hanelt**. '[In the Orbit of Democracy: Satellite Parties in South Korea’s 2020 Parliamentary Election](https://blog.politics.ox.ac.uk/in-the-orbit-of-democracy-satellite-parties-in-south-koreas-2020-parliamentary-election/)'. _Oxford University Politics Blog_.
 
-2018\. **E Hanelt**, J McLoughlin. 'United States of America'. [_Religious Exemptions for the Solemnisation of Same Sex Unions_](https://www.law.ox.ac.uk/sites/files/oxlaw/5._religious_exemptions_for_the_soleminsation_of_same_sex_unions_.pdf), ed. by R Sahgal, G Pillai, and K Sheridan. Oxford Pro Bono Publico: 45–52.
+### Miscellaneous
 
+2025\. L Laude, **E. Hanelt**. 'Wie verwundbar der deutsche Rechtsstaat schon jetzt ist – zum Justiz-Projekt
+des Verfassungsblogs'. _Anwaltsblatt_ 2025(3). Forthcoming.
+
+2024\. **E Hanelt**. 'Herausforderungen für die Demokratie: Die autoritär-populistische Welle in Thüringen'. _Dialog: Deutsch-Polnisches Magazin_ 147, 68–72. [also in Polish]
+
+2018\. **E Hanelt**, J McLoughlin. 'United States of America'. [_Religious Exemptions for the Solemnisation of Same Sex Unions_](https://www.law.ox.ac.uk/sites/files/oxlaw/5._religious_exemptions_for_the_soleminsation_of_same_sex_unions_.pdf), ed. by R Sahgal, G Pillai, and K Sheridan. Oxford Pro Bono Publico: 45–52.
 
 ---
 
