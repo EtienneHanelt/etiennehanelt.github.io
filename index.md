@@ -47,11 +47,9 @@ Forthcoming\. **E Hanelt**. '[Getting Article 7 Done: Coalition-Building against
 2024\. HK Beck, **E Hanelt**, V Wintermantel. '[Was wäre, wenn…? Zur Verwundbarkeit der Demokratie in Thüringen](https://www.bpb.de/shop/zeitschriften/apuz/fokus-ostdeutschland-2024/551117/was-waere-wenn/)'. _Aus Politik und Zeitgeschichte_ 2024(33–35), 29–34. Open access.
 
 ### Book Chapters
-Forthcoming\. **E Hanelt**, F Zillessen. ‘Die qualitative Szenarioanalyse im Justiz-Projekt’. In: _Das Justiz-Projekt: Verwundbar-
-keit und Resilienz der dritten Gewalt_ [The Judicial Resilience Project: Vulnerability and Resilience of the Third Power]. Ed. by F Zillessen, AM Brandau und L Laude. Berlin: Verfassungsbook.
+Forthcoming\. **E Hanelt**, F Zillessen. ‘Die qualitative Szenarioanalyse im Justiz-Projekt’. In: _Das Justiz-Projekt: Verwundbarkeit und Resilienz der dritten Gewalt._ Ed. by F Zillessen, AM Brandau und L Laude. Berlin: Verfassungsbook.
 
-Forthcoming\. J Schramm, **E Hanelt**. ‘Beurteilung und Beförderung’. In: _Das Justiz-Projekt: Verwundbar-
-keit und Resilienz der dritten Gewalt_ [The Judicial Resilience Project: Vulnerability and Resilience of the Third Power]. Ed. by F Zillessen, AM Brandau und L Laude. Berlin: Verfassungsbook.
+Forthcoming\. J Schramm, **E Hanelt**. ‘Beurteilung und Beförderung’. In: _Das Justiz-Projekt: Verwundbarkeit und Resilienz der dritten Gewalt._ Ed. by F Zillessen, AM Brandau und L Laude. Berlin: Verfassungsbook.
 
 ### Book Reviews
 
@@ -61,7 +59,7 @@ keit und Resilienz der dritten Gewalt_ [The Judicial Resilience Project: Vulnera
 
 2020\. **E Hanelt**. '[Commissioned Book Review: Wojciech Sadurski, Poland’s Constitutional Breakdown (Oxford Comparative Constitutionalism)](https://doi.org/10.1177/1478929920931440)'. _Political Studies Review_ 18(4), NP11–NP12.
 
-### Blog posts
+### Blog Posts
 
 2025\. E Hanelt. ‘[Castles of Illiberal Thought: The Rise and Role of Government-Organised Non-Governmental Organisations in Academic Contexts](https://verfassungsblog.de/castles-of-illiberal-thought/)’. _Verfassungsblog – On Matters Constitutional_.
 
