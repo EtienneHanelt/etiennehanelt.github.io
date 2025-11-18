@@ -47,9 +47,9 @@ Forthcoming\. **E Hanelt**. '[Getting Article 7 Done: Coalition-Building against
 
 ### Book Chapters
 
-Forthcoming\. **E Hanelt**, F Zillessen. ‘Die qualitative Szenarioanalyse im Justiz-Projekt’. In: _Das Justiz-Projekt: Verwundbarkeit und Resilienz der dritten Gewalt._ Ed. by F Zillessen, AM Brandau und L Laude. Berlin: Verfassungsbook.
+Forthcoming\. **E Hanelt**, F Zillessen. ‘Die qualitative Szenarioanalyse im Justiz-Projekt’. In: _Das Justiz-Projekt: Verwundbarkeit und Resilienz der dritten Gewalt._ Ed. by AM Brandau, F Zillessen, L Laude. Berlin: Verfassungsbooks, 33–64.
 
-Forthcoming\. J Schramm, **E Hanelt**. ‘Beurteilung und Beförderung’. In: _Das Justiz-Projekt: Verwundbarkeit und Resilienz der dritten Gewalt._ Ed. by F Zillessen, AM Brandau und L Laude. Berlin: Verfassungsbook.
+Forthcoming\. J Schramm, **E Hanelt**. ‘Beurteilung und Beförderung’. In: _Das Justiz-Projekt: Verwundbarkeit und Resilienz der dritten Gewalt._ Ed. by AM Brandau, F Zillessen, L Laude. Berlin: Verfassungsbooks, 177–202.
 
 ### Book Reviews
 
