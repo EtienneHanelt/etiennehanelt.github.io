@@ -39,7 +39,7 @@ I hold degrees in Political Science from Friedrich Schiller University Jena (M.A
 
 ### Journal Articles (## peer-reviewed)
 
-Forthcoming\. **E Hanelt**. '[Getting Article 7 Done: Coalition-Building against Hungary in the European Parliament](https://doi.org/10.1080/07036337.2024.2441977)'. _Journal of European Integration_. Open access.##
+2025\. **E Hanelt**. '[Getting Article 7 Done: Coalition-Building against Hungary in the European Parliament](https://doi.org/10.1080/07036337.2024.2441977)'. _Journal of European Integration_ 47 (8), 1175–1196. Open access.##
 
 2024\. **E Hanelt**, A Vincze. '[Managing Courts in Competitive Authoritarian Regimes: Co-Optation, Repression and Resistance in Hungary](https://doi.org/10.1007/s12286-024-00621-y)'. _Zeitschrift für Vergleichende Politikwissenschaft_ 18(3), 381–400. (= Part of the Special Issue: [Rule of law and Rechtsstaat under pressure](https://link.springer.com/journal/12286/volumes-and-issues/19-2), ed. by Hans-Joachim Lauth, Marta Bucholc, and Nicolas Hayoz). Open access.##
 
@@ -47,9 +47,9 @@ Forthcoming\. **E Hanelt**. '[Getting Article 7 Done: Coalition-Building against
 
 ### Book Chapters
 
-Forthcoming\. **E Hanelt**, F Zillessen. ‘Die qualitative Szenarioanalyse im Justiz-Projekt’. In: _Das Justiz-Projekt: Verwundbarkeit und Resilienz der dritten Gewalt._ Ed. by AM Brandau, F Zillessen, L Laude. Berlin: Verfassungsbooks, 33–64.
+2025\. **E Hanelt**, F Zillessen. ‘Die qualitative Szenarioanalyse im Justiz-Projekt’. In: [_Das Justiz-Projekt: Verwundbarkeit und Resilienz der dritten Gewalt_](https://verfassungsblog.de/book/das-justiz-projekt-verwundbarkeit-und-resilienz-der-dritten-gewalt/). Ed. by F Zillessen, AM Brandau, L Laude. Berlin: Verfassungsbooks, 33–64.
 
-Forthcoming\. J Schramm, **E Hanelt**. ‘Beurteilung und Beförderung’. In: _Das Justiz-Projekt: Verwundbarkeit und Resilienz der dritten Gewalt._ Ed. by AM Brandau, F Zillessen, L Laude. Berlin: Verfassungsbooks, 177–202.
+2025\. J Schramm, **E Hanelt**. ‘Beurteilung und Beförderung’. In: [_Das Justiz-Projekt: Verwundbarkeit und Resilienz der dritten Gewalt_](https://verfassungsblog.de/book/das-justiz-projekt-verwundbarkeit-und-resilienz-der-dritten-gewalt/). Ed. by F Zillessen, AM Brandau, L Laude. Berlin: Verfassungsbooks, 177–202.
 
 ### Book Reviews
 
