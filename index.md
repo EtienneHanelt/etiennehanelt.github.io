@@ -4,23 +4,19 @@ layout: homepage
 
 ## About me
 
-I study how authoritarian governments demolish democracy and the rule of law and what can be done to stop them. I'm a political scientist interested in democratic backsliding, especially in Central Eastern Europe, European Union politics, and judicial politics. In particular, I study elite decision-making in various contexts, creating academic work with policy relevance. 
+I'm a policy expert with an interdisciplinary political science and socio-legal profile, a doctorate from the University of Oxford, and years of experience in academia and in civil society/think tanks. I'm now working in public administration.
 
-Currently, I am working on the [Judicial Resilience Project](https://verfassungsblog.de/judicial-resilience-project/) of Verfassungsblog and have contributed to the award-winning [Thuringia Project](https://verfassungsblog.de/the-thuringia-project/) before. I am a [re:constitution fellow 2024/25](https://www.reconstitution.eu/en/fellows/detail/20242025/etienne-hanelt), pursuing my project '_Castles of Illiberal Thought and Mercenary Thinkers: Academic Legitimation of Authoritarian Politics in Hungary_'. I also work as a postdoctoral researcher at the Judicial Studies Institute at Masaryk University on the ERC-funded [NET-ROL](https://net-rol.eu) project (_Networks and the Rule of Law: Uncovering Socio-Economic Outcomes_). Before, from September 2021 to January 2025, I worked there as a pre-doctoral researcher on the [INFINITY](https://justin.law.muni.cz/en/projects/infinity-2021-2026) project (_Informal Judicial Institutions: Invisible Determinants of Democratic Decay_). 
+Currently, I'm a Policy Officer for state reform and modern policymaking in the State Chancellery of Thuringia. Before, I worked on democratic backsliding and resilience, European politics and courts. At first glance, this may look like a significant shift: from a focus on the rule of law to the modernisation of public administration. However, there is also strong continuity.
+
+Authoritarian movements threaten democracy and the rule of law across the globe. In democratic systems, however, they come to power through elections. There is no single explanation for why so many people vote for populist authoritarians — but one factor stands out: the demand for a state that works.
+
+Too often, citizens experience the opposite. Taxes are high, while public services are perceived as slow, overly bureaucratic, or even unresponsive. When governments fail to deliver, trust in democratic institutions erodes. Showing that the state can be effective, fair, and capable of solving real problems is necessary to strengthen trust in democracy.
+
+Before, I have worked on the [Judicial Resilience Project](https://verfassungsblog.de/judicial-resilience-project/) of Verfassungsblog and have contributed to the award-winning [Thuringia Project](https://verfassungsblog.de/the-thuringia-project/). I was a [re:constitution fellow 2024/25](https://www.reconstitution.eu/en/fellows/detail/20242025/etienne-hanelt) and pursued my project '_Castles of Illiberal Thought and Mercenary Thinkers: Academic Legitimation of Authoritarian Politics in Hungary_'. I have published on this subject [here](https://verfassungsblog.de/castles-of-illiberal-thought/). I also worked as a postdoctoral researcher at the Judicial Studies Institute at Masaryk University on the ERC-funded [NET-ROL](https://net-rol.eu) project (_Networks and the Rule of Law: Uncovering Socio-Economic Outcomes_). Before, from September 2021 to January 2025, I worked there as a pre-doctoral researcher on the [INFINITY](https://justin.law.muni.cz/en/projects/infinity-2021-2026) project (_Informal Judicial Institutions: Invisible Determinants of Democratic Decay_). 
 
 I have finished a DPhil at the University of Oxford with a thesis titled '_Supranational Tug of War: Overcoming the European Union's Authoritarian Equilibrium_'. At the University of Oxford, I was one of the founders and convenors of a graduate discussion group  (_OxonCourts_) that served as an interdisciplinary forum for researchers working on judicial institutions across the University. I represented for 3 years non-tenured researchers and graduate students at Wolfson College. This involved me in virtually all aspects of College governance and strategy. In 2019, I was elected as the Chair of the General Meeting – the Common Room President – and participated in this capacity in many committees dealing with issues as diverse as academic affairs, communications, the College premises, equality and welfare as well as social and cultural matters. I was also twice elected to the Governing Body (2019–21) and served for two years on the General Purposes Committee (2018–20).
 
 I hold degrees in Political Science from Friedrich Schiller University Jena (M.A., B.A.) and have studied as a graduate exchange student in Michigan and South Korea. My master's thesis was awarded the Jena Political Science Department's best thesis award in 2016. Before joining Oxford, I taught classes in political science at Jena. 
-
----
-
-## Research interests
-
-- democratic backsliding
-- rule of law resilience
-- European Union politics and policymaking
-- judicial and comparative politics
-
 
 ---
 
@@ -47,6 +43,8 @@ I hold degrees in Political Science from Friedrich Schiller University Jena (M.A
 
 ### Book Chapters
 
+2026\. ‘Castles of Illiberal Thought: The Rise and Role of Government-Organised Non-Governmental Organisations in Academic Contexts’. In: V Kosta, M Müller-Elmau [_Mapping Article 13: Academic and Scientific Freedom under the EU Charter_](https://verfassungsblog.de/book/mapping-article-13-academic-and-scientific-freedom-under-the-eu-charter/). Berlin: Verfassungsbooks, 65–75.
+
 2025\. **E Hanelt**, F Zillessen. ‘Die qualitative Szenarioanalyse im Justiz-Projekt’. In: [_Das Justiz-Projekt: Verwundbarkeit und Resilienz der dritten Gewalt_](https://verfassungsblog.de/book/das-justiz-projekt-verwundbarkeit-und-resilienz-der-dritten-gewalt/). Ed. by F Zillessen, AM Brandau, L Laude. Berlin: Verfassungsbooks, 33–64.
 
 2025\. J Schramm, **E Hanelt**. ‘Beurteilung und Beförderung’. In: [_Das Justiz-Projekt: Verwundbarkeit und Resilienz der dritten Gewalt_](https://verfassungsblog.de/book/das-justiz-projekt-verwundbarkeit-und-resilienz-der-dritten-gewalt/). Ed. by F Zillessen, AM Brandau, L Laude. Berlin: Verfassungsbooks, 177–202.
@@ -61,7 +59,7 @@ I hold degrees in Political Science from Friedrich Schiller University Jena (M.A
 
 ### Blog Posts
 
-2025\. **E Hanelt**. ‘[Castles of Illiberal Thought: The Rise and Role of Government-Organised Non-Governmental Organisations in Academic Contexts](https://verfassungsblog.de/castles-of-illiberal-thought/)’. _Verfassungsblog – On Matters Constitutional_.
+2025\. **E Hanelt**. ‘[Castles of Illiberal Thought: The Rise and Role of Government-Organised Non-Governmental Organisations in Academic Contexts](https://verfassungsblog.de/castles-of-illiberal-thought/)’. _Verfassungsblog – On Matters Constitutional_. (Also published on Trafo Blog for Transregional Research in [English](https://trafo.hypotheses.org/63010) and [Hungarian](https://trafo.hypotheses.org/63526)).
 
 2025\. AM Brandau, E Bruhn, **E Hanelt**, L Laude, J Talg, J Weickert, F Zillessen. '[We Are Launching the Judicial Resilience Project. How Vulnerable Is the German Judiciary?](https://verfassungsblog.de/we-are-launching-the-judicial-resilience-project/)' _Verfassungsblog – On Matters Constitutional_.
 
